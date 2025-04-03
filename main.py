@@ -1,10 +1,12 @@
 # main.py
 
 from telegram.ext import Application, CommandHandler, MessageHandler, filters
-from config import TELEGRAM_TOKEN
+import os
 from telegram_handler import start, handle_message, send_daily_tasks
 import logging
 import datetime
+
+TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 
 logging.basicConfig(level=logging.ERROR)
 
