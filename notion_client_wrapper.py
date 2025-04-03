@@ -3,8 +3,12 @@
 import datetime
 import dateparser
 from notion_client import Client
-from config import NOTION_TOKEN, DATABASE_ID
+import os
 import logging
+
+NOTION_TOKEN = os.getenv("NOTION_TOKEN")
+DATABASE_ID = os.getenv("DATABASE_ID")
+
 
 logger = logging.getLogger(__name__)
 notion = Client(auth=NOTION_TOKEN)
