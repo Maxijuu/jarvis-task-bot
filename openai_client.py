@@ -2,8 +2,10 @@
 
 import json
 from openai import OpenAI
-from config import OPENAI_API_KEY
+import os
 import logging
+
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 logger = logging.getLogger(__name__)
 
