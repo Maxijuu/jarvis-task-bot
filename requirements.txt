@@ -1,32 +1,32 @@
-annotated-types @ file:///home/conda/feedstock_root/build_artifacts/annotated-types_1716290248287/work
-anyio @ file:///home/conda/feedstock_root/build_artifacts/anyio_1728935693959/work
+annotated-types
+anyio
 APScheduler==3.10.4
-certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1739515848642/work/certifi
-colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+certifi
+colorama
 dateparser==1.2.1
-distro @ file:///home/conda/feedstock_root/build_artifacts/distro_1704321475663/work
-exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1720869315914/work
-h11 @ file:///home/conda/feedstock_root/build_artifacts/h11_1664132893548/work
-h2 @ file:///home/conda/feedstock_root/build_artifacts/h2_1634280454336/work
+distro
+exceptiongroup
+h11
+h2
 hpack==4.0.0
-httpcore @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_httpcore_1731707562/work
-httpx @ file:///home/conda/feedstock_root/build_artifacts/httpx_1724778349782/work
-hyperframe @ file:///home/conda/feedstock_root/build_artifacts/hyperframe_1619110129307/work
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1726459485162/work
-jiter @ file:///Users/runner/miniforge3/conda-bld/jiter_1731437169794/work
-notion-client @ file:///home/conda/feedstock_root/build_artifacts/notion-client_1718445573630/work
-openai @ file:///home/conda/feedstock_root/build_artifacts/openai_1740296351424/work
-pydantic @ file:///home/conda/feedstock_root/build_artifacts/pydantic_1732286392017/work
-pydantic_core @ file:///Users/runner/miniforge3/conda-bld/pydantic-core_1732253986171/work
+httpcore
+httpx
+hyperframe
+idna
+jiter
+notion-client
+openai
+pydantic
+pydantic_core
 python-dateutil==2.9.0.post0
-python-telegram-bot @ file:///home/conda/feedstock_root/build_artifacts/python-telegram-bot_1730768096854/work
+python-telegram-bot
 pytz==2025.1
 regex==2024.11.6
 setuptools==72.1.0
 six==1.17.0
-sniffio @ file:///home/conda/feedstock_root/build_artifacts/sniffio_1708952932303/work
-tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1730926118411/work
-typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1717802530399/work
+sniffio
+tqdm
+typing_extensions
 tzlocal==5.3
 wheel==0.44.0
 python-dotenv==1.1.0
